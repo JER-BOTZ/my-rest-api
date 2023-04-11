@@ -4,7 +4,7 @@ global.creator = 'JerOfc'// yourname
 global.MONGO_DB_URI = "mongodb+srv://jeremi:<jeremi130410>@cluster0.t8holkx.mongodb.net/?retryWrites=true&w=majority" //database mongodb 
 global.ACTIVATION_TOKEN_SECRET = "-@Pqnap+@(/1jAPPnew/@10" //isi apa aja bebas
 global.your_email = "jeremikurniawan76@gmail.com" //email
-global.email_password = "jeremi130410" //application password email
+global.email_password = "jeremi031008" //application password email
 global.limitCount = 10000
 global.YUOR_PORT = 8000
 global.loghandler = {
